@@ -15,7 +15,7 @@ C++ implementation of [Nova](https://github.com/hussamsh/Nova) a cryptography ap
 This application runs from the terminal and has three maps implemented
 * Logistic map
 * Double humped map
-* Henon map
+* Hénon map
 
 Uses `openCV` for pixel manupliation.
 
