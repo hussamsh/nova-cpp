@@ -1,0 +1,3 @@
+﻿  Encryption.cpp
+C:\Users\hosro\Desktop\projects\Encryption\Encryption\Encryption.cpp(88): warning C4715: 'nextIteration': not all control paths return a value
+  Encryption.vcxproj -> C:\Users\hosro\Desktop\projects\Encryption\x64\Debug\Encryption.exe
