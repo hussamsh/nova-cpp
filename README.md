@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a aria-label="Vercel logo" href="http://hossamsherif.com">
+  <a aria-label="Hossam logo" href="http://hossamsherif.com">
     <img src="assets/madeby.png" width="150">
   </a>
  </p>
