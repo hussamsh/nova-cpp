@@ -466,6 +466,8 @@ int main() {
 
 	showWelcomeScreen();
 
+
+
 	if (operation == 1)
 	{
 		encrypt(imagePath, parameters[0], parameters[1], parameters[2], outputPath);
